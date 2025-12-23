@@ -11,5 +11,5 @@ A lightweight CLI tool for tracking daily engineering activities, questions, and
 - **Commands**: `log`, `question`, `todo`
 - **Installation**: See `aux-log/README.md`
 
-### human_runbooks
-Human-readable runbooks and documentation.
+### aux-checklists
+Checklists for various operational checkpoints

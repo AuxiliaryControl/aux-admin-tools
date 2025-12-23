@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Base directories within the repo
 # This path will be replaced during installation

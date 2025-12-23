@@ -1,0 +1,2 @@
+[11:41:10] [Infra Test] SUCCESS: Validated NVIDIA GB10 GPU passthrough and LUKS encrypted storage write via Docker (nvcr.io/nvidia/pytorch:25.10-py3) on Grace Blackwell ARM64 architecture.
+[12:51:45] [Infra Test] PASS: Executed thermal stress test on NVIDIA GB10 (Grace Blackwell). Sustained 100% GPU utilization for 300s. Stats: Max Temp 76C, Max Power 65W, VRAM Saturation 96%. System stable, no throttling detected.
